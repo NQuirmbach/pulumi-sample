@@ -1,0 +1,10 @@
+_default:
+  just --list
+
+# Install python dependencies
+pip-install:
+  python3 -m pip install -r requirements.txt
+
+# Update via pulumi
+up:
+  pulumi up

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "root"
+		},
+		{
+			"path": "infra"
+		},
+		{
+			"path": "app"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}
